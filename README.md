@@ -1,1 +1,3 @@
-# KT-6.1
+
+un the zip
+and open folder
